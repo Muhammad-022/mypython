@@ -1,4 +1,3 @@
-
 # This program demonstrates comments in Python
 
 print("Learning Python comments")  # Printing a message
