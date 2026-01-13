@@ -9,8 +9,8 @@ Day 3: Variables in Python.<br>
 Day 4: Input() function.<br>
 Day 5: Comments in Python.<br>
 Day 6: Practice exercise.<br>
-Day 7: Data types in Python.<br>
-Day 8: Python file by wrap.<br>
-Day 9: while loops in python.<br>
-Day 10: Functions in python.<br>
-Day 11: Loops in python.<br>
+Day 7: Type Casting in Python.<br>
+Day 8: Basic Operators.<br>
+Day 9: If-Else (Basics).<br>
+Day 10: Mini Exercise.<br>
+Day 11: Revision Day.<br>
