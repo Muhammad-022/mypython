@@ -20,3 +20,7 @@ Day 14: Lists Exercise.<br>
 Day 15: Tuple in Python.<br>
 Day 16: Sets in Python.<br>
 Day 17: Dictionaries in Python.<br>
+Day 18: Loops in Python (Introduction).<br>
+Day 19: <br>
+Day 20:
+Day 21:
