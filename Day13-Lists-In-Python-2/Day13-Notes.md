@@ -1,4 +1,4 @@
-# Day 13: Lists in Python (Continuation)
+# Day 13: Lists in Python 2
 
 Lists are one of the most important data structures in Python. They are **ordered**, **mutable**, and can store items of different data types. This continuation covers **accessing, modifying, adding, removing items**, and some **useful built-in functions**.
 
@@ -19,8 +19,8 @@ numbers[2] = 99 → changes the 3rd item (index 2) to 99<br>
 ## 3. Adding Items
 New items can be added to a list using append() or insert():<br>
 
-fruits.append("orange")     # adds at the end of the list<br>
-fruits.insert(1, "mango")   # adds at index 1<br>
+fruits.append("orange")     <br>
+fruits.insert(1, "mango")  <br>
 print("Fruits after adding:", fruits)<br>
 
 1. append(value) → adds the item at the end of the list<br>
@@ -30,8 +30,8 @@ print("Fruits after adding:", fruits)<br>
 
 Items can be removed using remove() or pop():<br>
 
-fruits.remove("banana")                                      # removes the first occurrence of 'banana'<br>
-fruits.pop()                                                 # removes the last item<br>
+fruits.remove("banana")                                    <br>
+fruits.pop()                                               <br>
 print("Fruits after removing:", fruits)<br>
 remove(value) → removes an item by value<br>
 pop() → removes the last item by default or an item at a specific index if provided<br>
@@ -40,14 +40,15 @@ pop() → removes the last item by default or an item at a specific index if pro
 
 Python provides some built-in functions to manipulate lists:<br>
 
-print("Length of numbers list:", len(numbers))  # returns the number of items<br>
-numbers.sort()                                  # sorts the list in ascending order<br>
+print("Length of numbers list:", len(numbers))  <br>
+numbers.sort()                                 <br>
 print("Sorted numbers:", numbers)<br>
-numbers.reverse()                               # reverses the order of the list<br>
+numbers.reverse()                              <br>
 print("Reversed numbers:", numbers)<br>
 
 1. len(list) → returns the number of items in the list<br>
 2. sort() → sorts the list in ascending order<br>
 3. reverse() → reverses the current order of the list<br>
+
 
 
