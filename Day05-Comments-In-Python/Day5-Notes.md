@@ -19,3 +19,31 @@ Example:
 ```python
 # This is a single-line comment
 print("Hello, Python")
+```
+## Method 1: Multiple Single-line Comments (Recommended)
+* This method uses # at the beginning of each line.
+
+Example:
+```python
+# This program prints a message
+# It is written for beginners
+# Comments help in understanding the code
+
+print("Welcome to Python")
+```
+
+* This is the best practice
+* Most professional Python developers use this method
+
+## Method 2: Triple Quotes (''' or """)
+* Triple quotes are mainly used for docstrings, but they can also be used to write multi-line explanations.
+
+Example:
+
+"""
+This is a multi-line comment
+It explains what the program does
+Python ignores this if it is not assigned to a variable
+"""
+
+print("Learning Python Comments")
