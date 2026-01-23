@@ -23,5 +23,5 @@ Day 17: Dictionaries in Python.<br>
 Day 18: Loops in Python (Introduction).<br>
 Day 19: For & While Loops.<br>
 Day 20: Increment & Decrement in Loops.<br>
-Day 21: <br>
+Day 21: Loops Practice.<br>
 
