@@ -62,10 +62,3 @@ with open("data.txt", "r") as f:
 * To create logs
 * To store user records
 * To work with large data
-
-### Summary
-* open() is used to open a file
-* Modes: r, w, a
-* read() → read file
-* write() → write file
-* with open() → safe and recommended way
