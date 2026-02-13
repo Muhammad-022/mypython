@@ -13,8 +13,7 @@ In this lesson, I learn:
 
 ## 1. What is Scope?
 Scope defines **where a variable can be accessed** in a program.
-
-There are two main types we will study:
+There are two main types I study:
 - Local Scope
 - Global Scope
 
